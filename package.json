@@ -1,0 +1,14 @@
+{
+  "name": "mqtt-uebung-ee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "author": "eerbsloeh",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^4.2.4"
+  }
+}
