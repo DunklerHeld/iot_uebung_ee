@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    
-  },
+  "scripts": {},
   "author": "eerbsloeh",
   "license": "ISC",
   "dependencies": {
-    "mqtt": "^4.2.4"
+    "mqtt": "^4.2.4",
+    "node-os-utils": "^1.3.2",
+    "pg": "^8.4.2"
   }
 }
